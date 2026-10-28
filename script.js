@@ -179,7 +179,7 @@ class Raket {
     this.sprite = null;
   }
 
-  beweeg() {
+  beweeg() { //chatgpt hulp
     let g = raster.celGrootte;
 
     // Zwaartekracht remt de raket af tijdens het stijgen
